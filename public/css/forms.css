@@ -1,5 +1,10 @@
+form {
+  background-image: url("../images/scroll.jpg");
+}
+
 .form-control {
   margin: 1rem 0;
+  font-size: large;
 }
 
 .form-control label,
